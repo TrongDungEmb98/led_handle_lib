@@ -1,2 +1,4 @@
 # led_handle_lib
-lib for handler led status
+Author: Dungnt98 <nguyentrongdung0498@gmail.com>
+
+library for led status
